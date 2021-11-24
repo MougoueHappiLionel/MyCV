@@ -328,7 +328,7 @@ a.color {
 .entete {
   width: 100%;
   height: 50vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../contents/lionel.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('lionel.jpg');
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -456,25 +456,25 @@ hr{
 	top: 20px;
 }
 #icon-one{
-	background: url('../contents/birthday.png');
+	background: url('birthday.png');
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: contain;
 }
 #icon-two{
-	background: url('../contents/location.png');
+	background: url('location.png');
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: contain;
 }
 #icon-three{
-	background: url('../contents/phone.png');
+	background: url('phone.png');
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: contain;
 }
 #icon-fourth{
-	background: url('../contents/message.png');
+	background: url('message.png');
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: contain;
